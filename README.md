@@ -5,8 +5,8 @@
 #### Controls ####
 
 # Movement:
-   ↑  Move upwards
-   ↓  Move downwards
-   ←  Move left
-   →  Move right
-   SPACE   Shoot
+      ↑  Move upwards
+      ↓  Move downwards
+      ←  Move left
+      →  Move right
+      SPACE   Shoot
