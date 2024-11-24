@@ -55,8 +55,8 @@ LASER=pygame.transform.scale(LASER, (LASER_WIDTH,LASER_HEIGT))
 # powerups
 
     # speed boost
-BOOTS_HEIGT=50
-BOOTS_WIDTH=50
+BOOTS_HEIGT=20
+BOOTS_WIDTH=20
 BOOTS_VEL=3
 BOOTS=pygame.image.load(os.path.join(current_dir,"boots.png"))
 BOOTS=pygame.transform.scale(BOOTS, (BOOTS_WIDTH,BOOTS_HEIGT))
