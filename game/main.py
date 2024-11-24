@@ -61,9 +61,9 @@ BOOTS_VEL=3
 BOOTS=pygame.image.load(os.path.join(current_dir,"boots.png"))
 BOOTS=pygame.transform.scale(BOOTS, (BOOTS_WIDTH,BOOTS_HEIGT))
     # shoot boost
-SPEEDBOOST_HEIGT=50
-SPEEDBOOST_WIDTH=50
-SPEEDBOOST_VEL=1
+SPEEDBOOST_HEIGT=20
+SPEEDBOOST_WIDTH=20
+SPEEDBOOST_VEL=4
 # SPEEDBOOST=pygame.image.load(os.path.join(current_dir,"boots.png"))
 # SPEEDBOOST=pygame.transform.scale(BOOTS, (BOOTS_WIDTH,BOOTS_HEIGT))    
 
