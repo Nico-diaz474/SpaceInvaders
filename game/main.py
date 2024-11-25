@@ -20,8 +20,8 @@ BG = pygame.transform.scale(BG,(WIDTH,HEIGHT))
 
 
 # player caracteristics
-PLAYER_WIDTH=50
-PLAYER_HEIGHT=40
+PLAYER_WIDTH=20
+PLAYER_HEIGHT=20
 PLAYER_IMG=pygame.image.load(os.path.join(current_dir,"player.png"))
 PLAYER_IMG=pygame.transform.scale(PLAYER_IMG, (PLAYER_WIDTH,PLAYER_HEIGHT))
 PLAYER_VEL=5
