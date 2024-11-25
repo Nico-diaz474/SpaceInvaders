@@ -7,7 +7,7 @@ import os
 pygame.font.init()
 FONT = pygame.font.SysFont("times new roman", 20)
 # set window parameters
-WIDTH, HEIGHT = 10000000, 100000000
+WIDTH, HEIGHT = 1, 1
 WINDOW = pygame.display.set_mode((WIDTH,HEIGHT))
 pygame.display.set_caption("Space Invaders knockoff")
 
